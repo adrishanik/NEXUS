@@ -6,3 +6,5 @@ Before starting the project I spend some time in research . in this research I w
 
 
 Then I also researched the components which are needed and I made a estimate of around 250$
+#### COVER IMAGE OF Research & Planning
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/5843c2de-93cf-4471-85de-7c92fd5639bf" />
